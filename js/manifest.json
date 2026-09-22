@@ -1,0 +1,13 @@
+{
+  "name": "Easy Checklist",
+  "short_name": "Checklist",
+  "description": "Una lista sencilla para organizar tus tareas.",
+  "lang": "es",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#14532d",
+  "background_color": "#f5f7f2"
+}
